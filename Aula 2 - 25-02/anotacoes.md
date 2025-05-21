@@ -1,1 +1,1 @@
-
+Essa aula foi voltada para utilização do prompt da OpenAI e definir sua role, por exemplo, você é especialista em vender lanches, então ele só vai ter o vender lanches e não tem o conhecimento nos demais assuntos.
